@@ -17,7 +17,7 @@ Environment variables:
 </p>
 
 <p>
-  <b>- BITRATE=320</b> #set the bittrate as you wish, 128, 256, 320`
+  <b>- BITRATE=320</b> #set the bittrate as you wish, 128, 256, 320
 </p>
 
 Many thanks to
