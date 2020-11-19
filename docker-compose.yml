@@ -1,0 +1,12 @@
+version: "2"
+services:
+  raspotify-compose:
+    image: piotrb/raspotify-docker:latest
+    container_name: raspotify-compose
+    devices:
+      - "/dev/snd"
+    environment:
+      - DEVICE_NAME=Raspotify
+      - BITRATE=320
+    network_mode: "host"
+    restart: always
