@@ -28,3 +28,5 @@ https://hub.docker.com/r/piotrb/raspotify-docker
 Piotr did a "run" version of this, but I find that the docker-compose is the way to go, especially when you considering setting different settings scaling and scaling.
 
 Tested on Raspberry Pi 4B
+
+### updated for pipeline
